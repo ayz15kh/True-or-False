@@ -1,5 +1,5 @@
 import random
-
+print('fgASEGEASG')
 # Инициализация игры
 joker = 2
 ace = 6
